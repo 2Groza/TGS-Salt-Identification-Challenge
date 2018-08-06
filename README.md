@@ -1,5 +1,12 @@
 # TGS-Salt-Identification-Challenge
 
+## TODOs:
+ Crop
+ 
+ Aligncorner
+ 
+ Dataaugmentation
+
 
 Participate in the TGS-Salt-Identification-Challenge started on July 2018.
 
