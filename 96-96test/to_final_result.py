@@ -7,10 +7,11 @@ def to_final_result(line):
         if line[i-1] == 1:
             starts.append(i)
             j = 1
-            while line[i-1+j]==1:
-                j+=1
-                if i-1+j>= len(line):
-                    break
+            if i<len(line):
+                while line[i-1+j]==1:
+                    j+=1
+                    if i-1+j>= len(line):
+                        break
             lenths.append(j)
         i += j+1
     comma_split = []
