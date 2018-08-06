@@ -18,4 +18,6 @@ However, here are some strange data like:
 
 have no idea of what happend yet. [Aug.6]
 
+I submitted a toy model version, and got a score of 0.55, ranked 798/920[:(]
 
+The file named Total_Frame is the frame I used in the whole process. It would be useful in later submissions.
